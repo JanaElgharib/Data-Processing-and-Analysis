@@ -4,7 +4,7 @@ This project focuses on customer segmentation through preprocessing, exploratory
 
 ## 📊 Project Overview
 
-A comprehensive data pipeline was applied to a customer dataset to identify meaningful clusters and behavioral patterns.
+A comprehensive data pipeline was applied to a customer dataset to identify meaningful 5 clusters and behavioral patterns.
 
 ## 🛠️ Key Steps
 
